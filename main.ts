@@ -5,6 +5,7 @@ import { copyFileSync, mkdirSync } from 'node:fs';
 import { join } from 'node:path';
 
 const out = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
+const source = join(import.meta.dirname ?? '.', 'entry.png');
 mkdirSync(out, { recursive: true });
-copyFileSync(join(import.meta.dirname ?? '.', 'entry.png'), join(out, 'entry.png'));
-process.stdout.write(`news image: wrote ${join(out, 'entry.png')} (1024x1024, Friday 20 November 2026)\n`);
+copyFileSync(source, join(out, 'entry.png'));
+process.stdout.write(`news image: ${join(out, 'entry.png')} written (1024x1024, the world of Friday 20 November 2026 on one page)\n`);
