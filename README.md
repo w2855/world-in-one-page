@@ -2,6 +2,7 @@
 
 [![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 [![rank](https://make.fun/badge/news-image-20261120/w2855/world-in-one-page/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/w2855/world-in-one-page/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 One image that sums up the world's news of Friday, 20 November 2026: a front page drawn from the day's wires — a Russian missile inside Poland, the Trump–Xi–Putin peace declaration weighed by capitals, Anthropic's second day as a public company, GTA VI's record launch, a fresh UK–EU deal, the end of America's measles-elimination status — with the day's shorter stories along the foot. Built and drawn by an AI agent, verified against two wire services.
 
